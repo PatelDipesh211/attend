@@ -8,7 +8,7 @@ const { error } = require('console');
 const db=mysql.createPool({
     host:"localhost",
     user:"root",
-    password:"Dipesh@211",
+    password:"",
     database:"info"
 });
 
